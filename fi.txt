@@ -5,3 +5,5 @@ dev B, second line of code
 dev A, 3rd line of code
 
 dev B, is making changes
+
+dev A is writing same code
